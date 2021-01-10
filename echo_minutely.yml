@@ -1,0 +1,4 @@
+name: sample.echo_minutely
+image: ubuntu
+command: echo "Hello, World!!"
+schedule: "* * * * *"
